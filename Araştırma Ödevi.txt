@@ -1,0 +1,77 @@
+1.Abstract Class(Soyut Sınıf) Nedr?
+ Abstract (Soyut) sınıfları kullanarak, nesneüretrken br şablon oluşturmak 
+stememzdr dyeblrz. Yan br sınıf üzernde bulunan özellkler kullanarak yen 
+br sınıf türetmek stedğmz zaman, çersnde bulunan bazı temel yapıları 
+yenden oluşturmak çn overrde (aşırı yükleme) şlemn uygular ve sınıf 
+yapılarına göre özel br hale getrrz.
+ ÖRNEK:
+ Dyelm k br Araba sınıfımız var, burada sürücünün ne yapması gerektğn 
+soyutlar, ama motorun nasıl çalıştığını göstermez.
+ class Araba
+ {
+    publc vod GazVer()
+ {
+ {
+ }
+        //
+    }
+ Araba gaz verr.
+    publc vod FrenYap() 
+        //
+    }
+ Araba fren yapar.
+ 2.ABSTRACTİON(SOYUTLAMA) Nedr?
+ Br nesne yönelml programlamada karmaşık sstemlern detaylarını gzleyp, 
+sadece öneml ve gerekl olan yönler kullanıcıya sunma şlemdr. Yan, br 
+nesnenn veya sstemn sadece kullanıcının etkleşmde olduğu kısımları 
+gösterlr, arka plandak karmaşık şlemler gzlenr.
+ Abstracton, kullanıcıların sadece gerekl blglere odaklanmasını sağlar ve 
+gereksz detaylarla uğraşmalarını engeller. Bu, yazılımın daha bast, anlaşılır ve 
+bakımı kolay olmasını sağlar.
+ ÖRNEK:
+ Br Hayvan soyut sınıfı, tüm hayvanlar çn ortak br temel şlev (örneğn, "Ses 
+Çıkar") tanımlayablr. Ancak her hayvanın ses farklı olduğu çn, bu metot alt 
+sınıflar tarafından (Köpek, Ked gb) kendlerne özgü şeklde tanımlanır.abstract 
+class Hayvan
+ {
+ }
+    publc abstract vod SesCkar();       
+class Kopek : Hayvan
+ {
+    publc overrde vod SesCkar() 
+{
+        Console.WrteLne("Hav hav!");
+    }
+ }
+ class Ked : Hayvan 
+{
+    publc overrde vod SesCkar() 
+{
+        Console.WrteLne("Myav!");
+    }
+ }
+ 3.Polymorphsm(Çok Bçmllk) Nedr?
+ Nesne yönelml programlamada aynı metodun, farklı nesneler üzernde farklı 
+şeklde çalışablmesdr. Başka br deyşle, br metodu brden fazla şeklde 
+tanımlayablmenz ve bu metodun, kullanıldığı sınıfa göre farklı şlevler 
+göstermesdr. Polmorfzm, yazılımda esneklk ve genşletleblrlk sağlar.
+ Örnek:
+ class Hayvan 
+{
+    publc vrtual vod SesCkar() {
+        Console.WrteLne("Hayvan ses çıkarıyor.");
+    }
+ }
+ class Kopek : Hayvan 
+{
+    publc overrde vod SesCkar() {
+        Console.WrteLne("Hav hav!");
+    }
+ }
+ class Program 
+{
+    statc vod Man() {
+        Hayvan hayvan = new Kopek();
+        hayvan.SesCkar();  // "Hav hav!" yazacak
+    }
+ }
