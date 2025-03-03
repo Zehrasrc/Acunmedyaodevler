@@ -2,6 +2,7 @@
 using CM19OP.Abstracts;
 using CM19OP.Classes;
 using CumaGrubu.Classes;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 Console.WriteLine("Hello, World!");
 
@@ -110,16 +111,93 @@ hp.ehliyetAl("Hüseyin");
 //abstract class ların instance yani örneği oluşturulamaz
 //Calisan ca = new Calisan();
 
+//GenelMudur gn = new GenelMudur();
+//Mudur mu = new Mudur();
+//Programci pr = new Programci();
+//stajyer s = new stajyer();
+
+//double toplamMaas = 0.0;
+////toplamMaas = toplamMaas + gn.maasinizNedir();
+//toplamMaas += gn.maasinizNedir();
+//toplamMaas += mu.maasinizNedir();
+//toplamMaas += pr.maasinizNedir();
+//toplamMaas += s.maasinizNedir();
+ 
+//Console.WriteLine("Toplam: " +  toplamMaas + " TL maaş alıyorlar");
+
+
+
+//ABSTRACTİON ÖDEVİ//
+
+//Ödev 1
+bm.HızlıGit("Bmw");
+bm.DenizdeYüz("Bmw");
+bm.HavadaUc("Bmw");
+
+me.HızlıGit("Mercedes");
+me.DenizdeYuz("Mercedes");
+
+por.HızlıGit("Porche");
+//
+
+
+//Ödev 2
 GenelMudur gn = new GenelMudur();
 Mudur mu = new Mudur();
 Programci pr = new Programci();
-stajyer s = new stajyer();
+Stajyer s = new Stajyer();
 
 double toplamMaas = 0.0;
 //toplamMaas = toplamMaas + gn.maasinizNedir();
 toplamMaas += gn.maasinizNedir();
 toplamMaas += mu.maasinizNedir();
 toplamMaas += pr.maasinizNedir();
-toplamMaas -= s.maasinizNedir();
- 
-Console.WriteLine("Toplam: " +  toplamMaas + " TL maaş alıyorlar");
+toplamMaas += s.maasinizNedir();
+
+Console.WriteLine("Toplam: " + toplamMaas + " TL maaş alıyorlar");
+// 
+
+
+//Ödev 3
+bmw2 bmw1 = new bmw2();
+mercedes2 mercedes = new mercedes2();
+porche2 porc = new porche2();
+
+ double ToplamYakit = 0.0;
+ToplamYakit += bmw1.ToplamYakitMiktari();
+ToplamYakit += mercedes.ToplamYakitMiktari();
+ToplamYakit += porc.ToplamYakitMiktari();
+
+Console.WriteLine("1 saatte " + ToplamYakit + " L benzin harcarlar.");
+//
+
+//Ödev 4
+//Array(Dizi) Nedir?
+
+//Diziler aslında bir veri yapısıdır ve bellek üzerinde aynı tipte veri tutabilmemizi sağlar.
+//Normalde bir değişken yalnızca tek bir değer tutabilir ancak diziler sayesinde birden fazla değeri tek bir değişken altında saklayabiliriz.
+
+//Diziler bellekte ardışık olarak saklanır ve her elemana bir indeks numarası atanır.
+//Bu indeksler sayesinde dizi içerisindeki verilere kolayca erişebiliriz.
+
+
+//Bir değişken tanımladığımızda, bellekte o değişken için yalnızca tek bir alan ayrılır:
+
+//Örn:
+//int sayi = 10; //Bellekte sadece tek sayı tutulur.
+
+
+//Ancak birden fazla sayıyı saklamak istiyorsak, dizileri kullanabiliriz.
+
+//Örn:
+//int[] sayilar = { 10, 20, 30, 40, 50 };
+//Bu durumda bellekte aşağıdaki gibi bir yapı oluşur
+//İndeks   0    1    2    3    4
+//Değer   10   20   30   40   50
+
+//(Dizilerin indeks numarası 0 dan başlar)
+
+//Dizilerin Avantajları
+//Daha düzenli veri saklama
+//Kolay erişim
+//Bellek verimliliği..
