@@ -1,0 +1,30 @@
+Array(Dizi) Nedir?
+
+Diziler aslında bir veri yapısıdır ve bellek üzerinde aynı tipte veri tutabilmemizi sağlar.Normalde bir değişken yalnızca tek bir değer tutabilir ancak diziler sayesinde birden fazla değeri tek bir değişken altında saklayabiliriz.
+
+Diziler bellekte ardışık olarak saklanır ve her elemana bir indeks numarası atanır.Bu indeksler sayesinde dizi içerisindeki verilere kolayca erişebiliriz.
+
+
+Bir değişken tanımladığımızda, bellekte o değişken için yalnızca tek bir alan ayrılır:
+Örn:
+int sayi = 10 ; //Bellekte sadece tek sayı tutulur.
+
+
+
+Ancak birden fazla sayıyı saklamak istiyorsak, dizileri kullanabiliriz.
+Örn:
+int [] sayilar = { 10, 20, 30, 40, 50};
+Bu durumda bellekte aşağıdaki gibi bir yapı oluşur
+İndeks   0    1    2    3    4
+Değer   10   20   30   40   50
+(Dizilerin indeks numarası 0 dan başlar)
+
+Dizilerin Avantajları
+Daha düzenli veri saklama
+Kolay erişim
+Bellek verimliliği..
+
+
+
+
+
