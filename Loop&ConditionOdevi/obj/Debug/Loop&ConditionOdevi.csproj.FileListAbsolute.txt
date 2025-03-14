@@ -1,0 +1,7 @@
+C:\Users\serce\Desktop\acunmedya\Loop&ConditionOdevi\Loop&ConditionOdevi\obj\Debug\Loop&ConditionOdevi.csproj.AssemblyReference.cache
+C:\Users\serce\Desktop\acunmedya\Loop&ConditionOdevi\Loop&ConditionOdevi\obj\Debug\Loop&ConditionOdevi.csproj.CoreCompileInputs.cache
+C:\Users\serce\Desktop\acunmedya\Loop&ConditionOdevi\Loop&ConditionOdevi\bin\Debug\Loop&ConditionOdevi.exe.config
+C:\Users\serce\Desktop\acunmedya\Loop&ConditionOdevi\Loop&ConditionOdevi\bin\Debug\Loop&ConditionOdevi.exe
+C:\Users\serce\Desktop\acunmedya\Loop&ConditionOdevi\Loop&ConditionOdevi\bin\Debug\Loop&ConditionOdevi.pdb
+C:\Users\serce\Desktop\acunmedya\Loop&ConditionOdevi\Loop&ConditionOdevi\obj\Debug\Loop&ConditionOdevi.exe
+C:\Users\serce\Desktop\acunmedya\Loop&ConditionOdevi\Loop&ConditionOdevi\obj\Debug\Loop&ConditionOdevi.pdb
