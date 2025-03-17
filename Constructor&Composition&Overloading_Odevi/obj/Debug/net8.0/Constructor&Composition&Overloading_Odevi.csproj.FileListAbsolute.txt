@@ -1,0 +1,14 @@
+C:\Users\serce\Desktop\Odevler\Constructor&Composition&Overloading_Odevi\Constructor&Composition&Overloading_Odevi\bin\Debug\net8.0\Constructor&Composition&Overloading_Odevi.exe
+C:\Users\serce\Desktop\Odevler\Constructor&Composition&Overloading_Odevi\Constructor&Composition&Overloading_Odevi\bin\Debug\net8.0\Constructor&Composition&Overloading_Odevi.deps.json
+C:\Users\serce\Desktop\Odevler\Constructor&Composition&Overloading_Odevi\Constructor&Composition&Overloading_Odevi\bin\Debug\net8.0\Constructor&Composition&Overloading_Odevi.runtimeconfig.json
+C:\Users\serce\Desktop\Odevler\Constructor&Composition&Overloading_Odevi\Constructor&Composition&Overloading_Odevi\bin\Debug\net8.0\Constructor&Composition&Overloading_Odevi.dll
+C:\Users\serce\Desktop\Odevler\Constructor&Composition&Overloading_Odevi\Constructor&Composition&Overloading_Odevi\bin\Debug\net8.0\Constructor&Composition&Overloading_Odevi.pdb
+C:\Users\serce\Desktop\Odevler\Constructor&Composition&Overloading_Odevi\Constructor&Composition&Overloading_Odevi\obj\Debug\net8.0\Constructor&Composition&Overloading_Odevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serce\Desktop\Odevler\Constructor&Composition&Overloading_Odevi\Constructor&Composition&Overloading_Odevi\obj\Debug\net8.0\Constructor&Composition&Overloading_Odevi.AssemblyInfoInputs.cache
+C:\Users\serce\Desktop\Odevler\Constructor&Composition&Overloading_Odevi\Constructor&Composition&Overloading_Odevi\obj\Debug\net8.0\Constructor&Composition&Overloading_Odevi.AssemblyInfo.cs
+C:\Users\serce\Desktop\Odevler\Constructor&Composition&Overloading_Odevi\Constructor&Composition&Overloading_Odevi\obj\Debug\net8.0\Constructor&Composition&Overloading_Odevi.csproj.CoreCompileInputs.cache
+C:\Users\serce\Desktop\Odevler\Constructor&Composition&Overloading_Odevi\Constructor&Composition&Overloading_Odevi\obj\Debug\net8.0\Constructor&Composition&Overloading_Odevi.dll
+C:\Users\serce\Desktop\Odevler\Constructor&Composition&Overloading_Odevi\Constructor&Composition&Overloading_Odevi\obj\Debug\net8.0\refint\Constructor&Composition&Overloading_Odevi.dll
+C:\Users\serce\Desktop\Odevler\Constructor&Composition&Overloading_Odevi\Constructor&Composition&Overloading_Odevi\obj\Debug\net8.0\Constructor&Composition&Overloading_Odevi.pdb
+C:\Users\serce\Desktop\Odevler\Constructor&Composition&Overloading_Odevi\Constructor&Composition&Overloading_Odevi\obj\Debug\net8.0\Constructor&Composition&Overloading_Odevi.genruntimeconfig.cache
+C:\Users\serce\Desktop\Odevler\Constructor&Composition&Overloading_Odevi\Constructor&Composition&Overloading_Odevi\obj\Debug\net8.0\ref\Constructor&Composition&Overloading_Odevi.dll
