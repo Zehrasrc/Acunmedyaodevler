@@ -1,0 +1,14 @@
+C:\Users\serce\Desktop\Odevler\GenericList_NesneKullanımı\GenericList_NesneKullanımı\bin\Debug\net8.0\GenericList_NesneKullanımı.exe
+C:\Users\serce\Desktop\Odevler\GenericList_NesneKullanımı\GenericList_NesneKullanımı\bin\Debug\net8.0\GenericList_NesneKullanımı.deps.json
+C:\Users\serce\Desktop\Odevler\GenericList_NesneKullanımı\GenericList_NesneKullanımı\bin\Debug\net8.0\GenericList_NesneKullanımı.runtimeconfig.json
+C:\Users\serce\Desktop\Odevler\GenericList_NesneKullanımı\GenericList_NesneKullanımı\bin\Debug\net8.0\GenericList_NesneKullanımı.dll
+C:\Users\serce\Desktop\Odevler\GenericList_NesneKullanımı\GenericList_NesneKullanımı\bin\Debug\net8.0\GenericList_NesneKullanımı.pdb
+C:\Users\serce\Desktop\Odevler\GenericList_NesneKullanımı\GenericList_NesneKullanımı\obj\Debug\net8.0\GenericList_NesneKullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serce\Desktop\Odevler\GenericList_NesneKullanımı\GenericList_NesneKullanımı\obj\Debug\net8.0\GenericList_NesneKullanımı.AssemblyInfoInputs.cache
+C:\Users\serce\Desktop\Odevler\GenericList_NesneKullanımı\GenericList_NesneKullanımı\obj\Debug\net8.0\GenericList_NesneKullanımı.AssemblyInfo.cs
+C:\Users\serce\Desktop\Odevler\GenericList_NesneKullanımı\GenericList_NesneKullanımı\obj\Debug\net8.0\GenericList_NesneKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\serce\Desktop\Odevler\GenericList_NesneKullanımı\GenericList_NesneKullanımı\obj\Debug\net8.0\GenericList_NesneKullanımı.dll
+C:\Users\serce\Desktop\Odevler\GenericList_NesneKullanımı\GenericList_NesneKullanımı\obj\Debug\net8.0\refint\GenericList_NesneKullanımı.dll
+C:\Users\serce\Desktop\Odevler\GenericList_NesneKullanımı\GenericList_NesneKullanımı\obj\Debug\net8.0\GenericList_NesneKullanımı.pdb
+C:\Users\serce\Desktop\Odevler\GenericList_NesneKullanımı\GenericList_NesneKullanımı\obj\Debug\net8.0\GenericList_NesneKullanımı.genruntimeconfig.cache
+C:\Users\serce\Desktop\Odevler\GenericList_NesneKullanımı\GenericList_NesneKullanımı\obj\Debug\net8.0\ref\GenericList_NesneKullanımı.dll
