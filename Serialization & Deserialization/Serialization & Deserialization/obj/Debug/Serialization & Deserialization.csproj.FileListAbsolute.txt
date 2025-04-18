@@ -1,0 +1,14 @@
+C:\Users\serce\Desktop\Odevler\Serialization & Deserialization\Serialization & Deserialization\bin\Debug\Urunler.json
+C:\Users\serce\Desktop\Odevler\Serialization & Deserialization\Serialization & Deserialization\bin\Debug\Serialization & Deserialization.exe.config
+C:\Users\serce\Desktop\Odevler\Serialization & Deserialization\Serialization & Deserialization\bin\Debug\Serialization & Deserialization.exe
+C:\Users\serce\Desktop\Odevler\Serialization & Deserialization\Serialization & Deserialization\bin\Debug\Serialization & Deserialization.pdb
+C:\Users\serce\Desktop\Odevler\Serialization & Deserialization\Serialization & Deserialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\serce\Desktop\Odevler\Serialization & Deserialization\Serialization & Deserialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\serce\Desktop\Odevler\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\Serialization & Deserialization.csproj.AssemblyReference.cache
+C:\Users\serce\Desktop\Odevler\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\Serialization___Deserialization.Form1.resources
+C:\Users\serce\Desktop\Odevler\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\Serialization___Deserialization.Properties.Resources.resources
+C:\Users\serce\Desktop\Odevler\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\Serialization & Deserialization.csproj.GenerateResource.cache
+C:\Users\serce\Desktop\Odevler\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\Serialization & Deserialization.csproj.CoreCompileInputs.cache
+C:\Users\serce\Desktop\Odevler\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\Serializ.6F21BF48.Up2Date
+C:\Users\serce\Desktop\Odevler\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\Serialization & Deserialization.exe
+C:\Users\serce\Desktop\Odevler\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\Serialization & Deserialization.pdb
