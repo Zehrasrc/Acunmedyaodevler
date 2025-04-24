@@ -1,0 +1,11 @@
+C:\Users\serce\Desktop\Odevler\ReflectionOdemeSistemi\ReflectionOdemeSistemi\bin\Debug\ReflectionOdemeSistemi.exe.config
+C:\Users\serce\Desktop\Odevler\ReflectionOdemeSistemi\ReflectionOdemeSistemi\bin\Debug\ReflectionOdemeSistemi.exe
+C:\Users\serce\Desktop\Odevler\ReflectionOdemeSistemi\ReflectionOdemeSistemi\bin\Debug\ReflectionOdemeSistemi.pdb
+C:\Users\serce\Desktop\Odevler\ReflectionOdemeSistemi\ReflectionOdemeSistemi\obj\Debug\ReflectionOdemeSistemi.csproj.AssemblyReference.cache
+C:\Users\serce\Desktop\Odevler\ReflectionOdemeSistemi\ReflectionOdemeSistemi\obj\Debug\ReflectionOdemeSistemi.Form1.resources
+C:\Users\serce\Desktop\Odevler\ReflectionOdemeSistemi\ReflectionOdemeSistemi\obj\Debug\ReflectionOdemeSistemi.Properties.Resources.resources
+C:\Users\serce\Desktop\Odevler\ReflectionOdemeSistemi\ReflectionOdemeSistemi\obj\Debug\ReflectionOdemeSistemi.csproj.GenerateResource.cache
+C:\Users\serce\Desktop\Odevler\ReflectionOdemeSistemi\ReflectionOdemeSistemi\obj\Debug\ReflectionOdemeSistemi.csproj.CoreCompileInputs.cache
+C:\Users\serce\Desktop\Odevler\ReflectionOdemeSistemi\ReflectionOdemeSistemi\obj\Debug\ReflectionOdemeSistemi.exe
+C:\Users\serce\Desktop\Odevler\ReflectionOdemeSistemi\ReflectionOdemeSistemi\obj\Debug\ReflectionOdemeSistemi.pdb
+C:\Users\serce\Desktop\Odevler\ReflectionOdemeSistemi\ReflectionOdemeSistemi\obj\Debug\ReflectionOdemeSistemi.Form2.resources
