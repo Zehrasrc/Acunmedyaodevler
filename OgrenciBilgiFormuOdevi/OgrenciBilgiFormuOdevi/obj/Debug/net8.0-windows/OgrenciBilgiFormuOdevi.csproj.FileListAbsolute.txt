@@ -1,0 +1,17 @@
+C:\Users\serce\Desktop\Odevler\OgrenciBilgiFormuOdevi\OgrenciBilgiFormuOdevi\bin\Debug\net8.0-windows\OgrenciBilgiFormuOdevi.exe
+C:\Users\serce\Desktop\Odevler\OgrenciBilgiFormuOdevi\OgrenciBilgiFormuOdevi\bin\Debug\net8.0-windows\OgrenciBilgiFormuOdevi.deps.json
+C:\Users\serce\Desktop\Odevler\OgrenciBilgiFormuOdevi\OgrenciBilgiFormuOdevi\bin\Debug\net8.0-windows\OgrenciBilgiFormuOdevi.runtimeconfig.json
+C:\Users\serce\Desktop\Odevler\OgrenciBilgiFormuOdevi\OgrenciBilgiFormuOdevi\bin\Debug\net8.0-windows\OgrenciBilgiFormuOdevi.dll
+C:\Users\serce\Desktop\Odevler\OgrenciBilgiFormuOdevi\OgrenciBilgiFormuOdevi\bin\Debug\net8.0-windows\OgrenciBilgiFormuOdevi.pdb
+C:\Users\serce\Desktop\Odevler\OgrenciBilgiFormuOdevi\OgrenciBilgiFormuOdevi\obj\Debug\net8.0-windows\OgrenciBilgiFormuOdevi.Form1.resources
+C:\Users\serce\Desktop\Odevler\OgrenciBilgiFormuOdevi\OgrenciBilgiFormuOdevi\obj\Debug\net8.0-windows\OgrenciBilgiFormuOdevi.csproj.GenerateResource.cache
+C:\Users\serce\Desktop\Odevler\OgrenciBilgiFormuOdevi\OgrenciBilgiFormuOdevi\obj\Debug\net8.0-windows\OgrenciBilgiFormuOdevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serce\Desktop\Odevler\OgrenciBilgiFormuOdevi\OgrenciBilgiFormuOdevi\obj\Debug\net8.0-windows\OgrenciBilgiFormuOdevi.AssemblyInfoInputs.cache
+C:\Users\serce\Desktop\Odevler\OgrenciBilgiFormuOdevi\OgrenciBilgiFormuOdevi\obj\Debug\net8.0-windows\OgrenciBilgiFormuOdevi.AssemblyInfo.cs
+C:\Users\serce\Desktop\Odevler\OgrenciBilgiFormuOdevi\OgrenciBilgiFormuOdevi\obj\Debug\net8.0-windows\OgrenciBilgiFormuOdevi.csproj.CoreCompileInputs.cache
+C:\Users\serce\Desktop\Odevler\OgrenciBilgiFormuOdevi\OgrenciBilgiFormuOdevi\obj\Debug\net8.0-windows\OgrenciBilgiFormuOdevi.dll
+C:\Users\serce\Desktop\Odevler\OgrenciBilgiFormuOdevi\OgrenciBilgiFormuOdevi\obj\Debug\net8.0-windows\refint\OgrenciBilgiFormuOdevi.dll
+C:\Users\serce\Desktop\Odevler\OgrenciBilgiFormuOdevi\OgrenciBilgiFormuOdevi\obj\Debug\net8.0-windows\OgrenciBilgiFormuOdevi.pdb
+C:\Users\serce\Desktop\Odevler\OgrenciBilgiFormuOdevi\OgrenciBilgiFormuOdevi\obj\Debug\net8.0-windows\OgrenciBilgiFormuOdevi.genruntimeconfig.cache
+C:\Users\serce\Desktop\Odevler\OgrenciBilgiFormuOdevi\OgrenciBilgiFormuOdevi\obj\Debug\net8.0-windows\ref\OgrenciBilgiFormuOdevi.dll
+C:\Users\serce\Desktop\Odevler\OgrenciBilgiFormuOdevi\OgrenciBilgiFormuOdevi\obj\Debug\net8.0-windows\OgrenciBilgiFormuOdevi.Properties.Resources.resources

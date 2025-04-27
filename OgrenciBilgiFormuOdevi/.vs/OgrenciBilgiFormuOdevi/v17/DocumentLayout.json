@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serce\\Desktop\\Odevler\\OgrenciBilgiFormuOdevi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8CCB46-9B43-4CC8-B4E5-64C3D15DF2FB}|OgrenciBilgiFormuOdevi\\OgrenciBilgiFormuOdevi.csproj|c:\\users\\serce\\desktop\\odevler\\ogrencibilgiformuodevi\\ogrencibilgiformuodevi\\ekrangoruntusu\\ekran g\u00F6r\u00FCnt\u00FCs\u00FC 2025-04-27 203605.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{8F8CCB46-9B43-4CC8-B4E5-64C3D15DF2FB}|OgrenciBilgiFormuOdevi\\OgrenciBilgiFormuOdevi.csproj|solutionrelative:ogrencibilgiformuodevi\\ekrangoruntusu\\ekran g\u00F6r\u00FCnt\u00FCs\u00FC 2025-04-27 203605.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ekran g\u00F6r\u00FCnt\u00FCs\u00FC 2025-04-27 203605.png - PNG [762x460, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\serce\\Desktop\\Odevler\\OgrenciBilgiFormuOdevi\\OgrenciBilgiFormuOdevi\\EkranGoruntusu\\Ekran g\u00F6r\u00FCnt\u00FCs\u00FC 2025-04-27 203605.png",
+              "RelativeDocumentMoniker": "OgrenciBilgiFormuOdevi\\EkranGoruntusu\\Ekran g\u00F6r\u00FCnt\u00FCs\u00FC 2025-04-27 203605.png",
+              "ToolTip": "C:\\Users\\serce\\Desktop\\Odevler\\OgrenciBilgiFormuOdevi\\OgrenciBilgiFormuOdevi\\EkranGoruntusu\\Ekran g\u00F6r\u00FCnt\u00FCs\u00FC 2025-04-27 203605.png - PNG [762x460, 32 bit, PNG]",
+              "RelativeToolTip": "OgrenciBilgiFormuOdevi\\EkranGoruntusu\\Ekran g\u00F6r\u00FCnt\u00FCs\u00FC 2025-04-27 203605.png - PNG [762x460, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-27T17:39:12.588Z",
+              "EditorCaption": " - PNG [762x460, 32 bit, PNG]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
