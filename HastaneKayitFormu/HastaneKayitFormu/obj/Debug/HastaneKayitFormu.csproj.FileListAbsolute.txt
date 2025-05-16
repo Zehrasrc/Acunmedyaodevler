@@ -1,0 +1,10 @@
+C:\Users\serce\Desktop\Odevler\HastaneKayitFormu\HastaneKayitFormu\bin\Debug\HastaneKayitFormu.exe.config
+C:\Users\serce\Desktop\Odevler\HastaneKayitFormu\HastaneKayitFormu\bin\Debug\HastaneKayitFormu.exe
+C:\Users\serce\Desktop\Odevler\HastaneKayitFormu\HastaneKayitFormu\bin\Debug\HastaneKayitFormu.pdb
+C:\Users\serce\Desktop\Odevler\HastaneKayitFormu\HastaneKayitFormu\obj\Debug\HastaneKayitFormu.csproj.AssemblyReference.cache
+C:\Users\serce\Desktop\Odevler\HastaneKayitFormu\HastaneKayitFormu\obj\Debug\HastaneKayitFormu.Form1.resources
+C:\Users\serce\Desktop\Odevler\HastaneKayitFormu\HastaneKayitFormu\obj\Debug\HastaneKayitFormu.Properties.Resources.resources
+C:\Users\serce\Desktop\Odevler\HastaneKayitFormu\HastaneKayitFormu\obj\Debug\HastaneKayitFormu.csproj.GenerateResource.cache
+C:\Users\serce\Desktop\Odevler\HastaneKayitFormu\HastaneKayitFormu\obj\Debug\HastaneKayitFormu.csproj.CoreCompileInputs.cache
+C:\Users\serce\Desktop\Odevler\HastaneKayitFormu\HastaneKayitFormu\obj\Debug\HastaneKayitFormu.exe
+C:\Users\serce\Desktop\Odevler\HastaneKayitFormu\HastaneKayitFormu\obj\Debug\HastaneKayitFormu.pdb
